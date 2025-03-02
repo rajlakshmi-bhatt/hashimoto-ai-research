@@ -1,0 +1,1 @@
+"# Hashimoto AI Research Project" 
